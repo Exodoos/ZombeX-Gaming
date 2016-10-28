@@ -304,7 +304,7 @@ class VirtualItems {
         icon = "icons\ico_storageBig.paa";
     };
 
-    //Mined Items
+████████████████████████████  Mined Items  ████████████████████████████████████████████████████████████████████████
     class oil_unprocessed {
         variable = "oilUnprocessed";
         displayName = "STR_Item_OilU";
